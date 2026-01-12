@@ -1,0 +1,24 @@
+# FastAPI web framework
+fastapi
+uvicorn[standard]
+
+# Streamlit web interface
+streamlit
+
+# PyTorch with CUDA support (for GPU acceleration)
+torch
+torchaudio
+
+# Marker OCR PDF converter
+marker-pdf
+
+# Cloudflare tunnel for public access
+pycloudflared
+
+# Additional dependencies for marker-pdf
+pytorch-lightning
+torchmetrics
+python-multipart
+
+streamlit-ace
+streamlit
